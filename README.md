@@ -1,12 +1,12 @@
 # Day-By-Day
 
-##Objective
+## Objective
 A game that involves putting text messages in order to unravel a story. Each level is portrayed as one day
 in a calendar, with each text message thread being counted as a sublevel.
 
-##Current Features Implemented
+## Current Features Implemented
 I have sucessfully developed the following capabilities in this app:
-- View controllers to navigate and pass information between levels and sublevels
+* View controllers to navigate and pass information between levels and sublevels
 - A model for each level and sublevel to track progress
 - Customized table cells to turn data into displayed text messages
 - Randomization and drag-and-drop functions that allow users to "play" the level (aka put the text messages in the correct order)
